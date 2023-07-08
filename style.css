@@ -14,8 +14,8 @@ h1{
 #screen{
     display: block;
     font-size: 2.2rem;
-    /* width: 100%; */
-    /* box-sizing: border-box; */
+    width: 98%;
+    box-sizing: border-box;
     margin: 5px auto;
 }
 #screen:focus{
@@ -48,9 +48,6 @@ td:active{
 @media screen and (max-width:580px) {
     #container{
         width: 350px;
-    }
-    #screen{
-        font-size: 1.7rem;
     }
     td{
         /* height: 40px; */

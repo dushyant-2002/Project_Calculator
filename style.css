@@ -49,6 +49,9 @@ td:active{
     #container{
         width: 350px;
     }
+        #screen{
+        overflow: hidden;
+    }
     td{
         /* height: 40px; */
         width: 60px;

@@ -49,8 +49,8 @@ td:active{
     #container{
         width: 350px;
     }
-        #screen{
-        overflow: hidden;
+    #screen{
+        font-size: 1.7rem;
     }
     td{
         /* height: 40px; */
